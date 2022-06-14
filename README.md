@@ -1,0 +1,2 @@
+# Transmission-line-fault-detection-system-by-using-android-application
+The management of electric power distribution system is becoming  more complex. Bluetooth based fault detection is a newly developing concept in the power  system fault detection. This is a part of smart grid. The system is designed to detect the  transmission line fault for the user to easily recognize the current condition of the distribution line. 
